@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YW/I58pvg66fLZo3BY7/B3QwCSavmGcKOdrya2++wXlTw3omg0LVkWT1bZx4CDPzSrPUY1Zme3QKfGp3urdmJQ==",
+  "dgSpecHash": "WOjpBqzrXmZgMzX+QnzXxbDJEHH8qYRlmemjZjajloR4GsFXhN0whfGzDJic7Y05AUvUnBdB10mv1RIrc5+LGg==",
   "success": true,
   "projectFilePath": "/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Domain/Domain.csproj",
-  "expectedPackageFiles": [
-    "/Users/hieutran/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/hieutran/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
