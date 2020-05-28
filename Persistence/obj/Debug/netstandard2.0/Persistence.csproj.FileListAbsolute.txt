@@ -1,0 +1,12 @@
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

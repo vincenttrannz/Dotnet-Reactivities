@@ -1,0 +1,14 @@
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Application/obj/Debug/netstandard2.0/Application.pdb
