@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4kY0PnaN5TluO1KKx9dC1Jd90m0jJt2ioXjPbO6wnFmNBbPQX5t85LPrGkcPDdVu8Ls7dFh13mW2ly192lWa2Q==",
+  "success": true,
+  "projectFilePath": "/Users/hieutran/Desktop/Web/DotNet/Dotnet-Reactivities/Persistence/Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/hieutran/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/hieutran/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
